@@ -1,0 +1,7 @@
+@import "../styles/kalyvoaruno.css";
+
+:root {
+  --font: var(--font-be-vietnam-pro), system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --display: var(--font-poppins), var(--font-be-vietnam-pro), system-ui, sans-serif;
+}
+
